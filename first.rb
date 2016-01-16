@@ -1,1 +1,1 @@
-puts "words"
+puts 'words'
